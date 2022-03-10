@@ -12,4 +12,5 @@ yarn
 yarn start
 ```
 
+----
 - 기존에 작성하였던 Component-template repo를 참고하여 컴포넌트 패턴구현 하였습니다.
